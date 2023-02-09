@@ -19,7 +19,7 @@ setinput(e.target.value);
 
 
   return (<>
-  <div className='text-center mt-20 text-lg font-semibold'>Calculator application</div>
+  <div className='text-center mt-24 text-lg font-semibold'>Calculator application</div>
     
     <div className='flex justify-center items-center w-[100%] h-[100vh]'>
       
