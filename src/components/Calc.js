@@ -21,7 +21,7 @@ setinput(e.target.value);
   return (<>
  
     
-    <div className='flex justify-center items-center w-[100%] h-[100vh]'>
+    <div className='flex flex-col items-center w-[100%] h-[100vh]'>
     <div className='text-center mt-24 text-lg font-semibold'>Calculator application</div>
       
         <div className='flex flex-col  justify-center items-center w-[30%] h-[400px] rounded-2xl shadow-lg bg-blue-200'>
